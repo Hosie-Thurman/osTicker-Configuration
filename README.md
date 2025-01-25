@@ -1,0 +1,1 @@
+# osTicker-Configuration
