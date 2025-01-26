@@ -27,24 +27,25 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 
 <h2>Project Walk-through:</h2>
 
-![Image](https://github.com/user-attachments/assets/23b879da-73e8-499c-a6b2-b89d75487a07)
-![Image](https://github.com/user-attachments/assets/aaec033a-4f43-434f-ae7e-491b9785fe83)
-![Image](https://github.com/user-attachments/assets/23b890f5-98e2-44dd-9ebc-22a66df9416e)
-![Image](https://github.com/user-attachments/assets/3249f9ef-8a8c-4859-bd86-f30e3c7f6144)
-![Image](https://github.com/user-attachments/assets/2f78b532-4a47-422c-9554-0a420db02d93)
-![Image](https://github.com/user-attachments/assets/8c0a99e4-caf9-4271-a175-4a5018144006)
-![Image](https://github.com/user-attachments/assets/c912e513-06fd-4253-96b3-a22c3bf529f0)
-![Image](https://github.com/user-attachments/assets/c92dc0c1-fbf9-4c1a-b9d4-8efb98bfc7db)
-![Image](https://github.com/user-attachments/assets/2378c47d-d7df-472d-8fdc-188851d92657)
-![Image](https://github.com/user-attachments/assets/b07c76fc-8598-408a-8dae-c583788252d7)
-![Image](https://github.com/user-attachments/assets/e3217f41-c7bf-47aa-945b-ca77be346e0d)
-![Image](https://github.com/user-attachments/assets/87740826-4d93-48f5-b9d4-83499454a5d1)
-![Image](https://github.com/user-attachments/assets/747a25fc-f337-44cf-b5b0-7a8874ca8dda)
-![Image](https://github.com/user-attachments/assets/6346d657-5e5d-4e16-bf8c-309a743de202)
-![Image](https://github.com/user-attachments/assets/3df135ba-4da5-492c-b343-e331e9d01d30)
-![Image](https://github.com/user-attachments/assets/51ad1c35-cc95-4d6f-ac64-e410434ffd32)
-![Image](https://github.com/user-attachments/assets/a57df44e-64f2-46fb-811f-62f58a9c91c7)
-![Image](https://github.com/user-attachments/assets/c84928c2-d522-42d1-a2c2-62681b136280)
+![Image](https://github.com/user-attachments/assets/45b212ff-a652-4e53-947d-a0d146725a14)
+![Image](https://github.com/user-attachments/assets/090601e5-314c-4e31-99a5-25ebc19df0bd)
+![Image](https://github.com/user-attachments/assets/819f779a-e458-43f6-adfb-22a60d014c9f)
+![Image](https://github.com/user-attachments/assets/f929d550-c65c-44c4-baeb-fd6694c7a4f6)
+![Image](https://github.com/user-attachments/assets/87607c72-12d9-4259-89e7-0024b6b604ad)
+![Image](https://github.com/user-attachments/assets/3030fe10-e227-4666-b082-1c0669a65508)
+![Image](https://github.com/user-attachments/assets/952cb2fe-d586-41d5-b23f-b011efa42b44)
+![Image](https://github.com/user-attachments/assets/3e02f852-819e-441a-bfb4-eeb97b313422)
+![Image](https://github.com/user-attachments/assets/10829962-a05e-4d5a-9f8b-7e082f2e6329)
+![Image](https://github.com/user-attachments/assets/89c4b769-d772-409e-9e43-5d8c1217315d)
+![Image](https://github.com/user-attachments/assets/b0359187-99b4-43cd-b063-08fff2039019)
+![Image](https://github.com/user-attachments/assets/c1316c59-4c8a-435b-b9a0-fb92f1198fa6)
+![Image](https://github.com/user-attachments/assets/3363adca-5eaf-4da6-8426-24107190ebd6)
+![Image](https://github.com/user-attachments/assets/d21edc25-f20d-4a8e-87ff-f57517bb47fc)
+![Image](https://github.com/user-attachments/assets/f3c1399d-d8c5-4fa6-b334-cd3b30f9599c)
+![Image](https://github.com/user-attachments/assets/0104f9d1-0ead-49a1-a602-3e24f970a20c)
+![Image](https://github.com/user-attachments/assets/e301b113-82ae-4a5b-845c-f63622e6ec21)
+![Image](https://github.com/user-attachments/assets/9cc4ed1f-e762-4919-a899-3d2fe5714981)
+
 
 <b> We've successfully set up multiple agents along with their departments, roles, and permissions. As well as, configured SLAs (Service Level Agreements), help topics, and users! osTicket is now setup for the next project where I will create and work different tickets using multiple agents and users!  </b>
 <br />
