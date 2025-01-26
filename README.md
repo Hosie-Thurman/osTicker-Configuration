@@ -34,7 +34,6 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 ![Image](https://github.com/user-attachments/assets/2f78b532-4a47-422c-9554-0a420db02d93)
 ![Image](https://github.com/user-attachments/assets/8c0a99e4-caf9-4271-a175-4a5018144006)
 ![Image](https://github.com/user-attachments/assets/c912e513-06fd-4253-96b3-a22c3bf529f0)
-![Image](https://github.com/user-attachments/assets/a57df44e-64f2-46fb-811f-62f58a9c91c7)
 ![Image](https://github.com/user-attachments/assets/c92dc0c1-fbf9-4c1a-b9d4-8efb98bfc7db)
 ![Image](https://github.com/user-attachments/assets/2378c47d-d7df-472d-8fdc-188851d92657)
 ![Image](https://github.com/user-attachments/assets/b07c76fc-8598-408a-8dae-c583788252d7)
@@ -43,7 +42,10 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 ![Image](https://github.com/user-attachments/assets/747a25fc-f337-44cf-b5b0-7a8874ca8dda)
 ![Image](https://github.com/user-attachments/assets/6346d657-5e5d-4e16-bf8c-309a743de202)
 ![Image](https://github.com/user-attachments/assets/3df135ba-4da5-492c-b343-e331e9d01d30)
-![Image](https://github.com/user-attachments/assets/51ad1c35-cc95-4d6f-ac64-e410434ffd32)err
+![Image](https://github.com/user-attachments/assets/51ad1c35-cc95-4d6f-ac64-e410434ffd32)
+![Image](https://github.com/user-attachments/assets/a57df44e-64f2-46fb-811f-62f58a9c91c7)
+![Image](https://github.com/user-attachments/assets/c84928c2-d522-42d1-a2c2-62681b136280)
+
 <b> We've successfully set up multiple agents along with their departments, roles, and permissions. As well as, configured SLAs (Service Level Agreements), help topics, and users! osTicket is now setup for the next project where I will create and work different tickets using multiple agents and users!  </b>
 <br />
 <br />
