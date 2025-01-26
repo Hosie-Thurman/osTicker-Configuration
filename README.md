@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/tUnlhRz.jpeg" height="80%" width="80%" alt="Setting Up in Azure"/>
+ 
+![Image](https://github.com/user-attachments/assets/69d3193c-5dec-4232-ad86-5830faa00d3b)
 <br />
 
 <h1>osTicket: Post-Installation Configuration</h1>
